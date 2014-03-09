@@ -21,7 +21,7 @@ Here is a video about how it works
 
 [![ScreenShot](https://i.ytimg.com/vi/M94ZPlU1beA/2.jpg?1394352715745)](http://youtu.be/M94ZPlU1beA)
 
-And these arre photos of developing process
+And these are photos of developing process
 
 ![](project_images/IMG_R_001.png)
 ![](project_images/IMG_R_002.png)
