@@ -17,7 +17,11 @@ So nothing could be easier: one slight knock blasts thundering flash of light an
 
 
 ## Images & Videos
-NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
+Here is a video about how it works
+
+[![ScreenShot](https://i.ytimg.com/vi/M94ZPlU1beA/2.jpg?1394352715745)](http://youtu.be/M94ZPlU1beA)
+
+And these arre photos of developing process
 
 ![](project_images/IMG_R_001.png)
 ![](project_images/IMG_R_002.png)
@@ -39,7 +43,6 @@ NOTE: For additional images you can either use a relative link to an image on th
 ![](project_images/IMG_R_R_010.png)
 ![](project_images/IMG_R_R_011.png)
 
-![](http://youtu.be/M94ZPlU1beA)
 
 
 
