@@ -17,7 +17,32 @@ So nothing could be easier: one slight knock blasts thundering flash of light an
 
 
 ## Images & Videos
-NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
+Here is a video about how it works
+
+[![ScreenShot](https://i.ytimg.com/vi/M94ZPlU1beA/2.jpg?1394352715745)](http://youtu.be/M94ZPlU1beA)
+
+And these are photos of developing process
+
+![](project_images/IMG_R_001.png)
+![](project_images/IMG_R_002.png)
+![](project_images/IMG_R_003.png)
+![](project_images/IMG_R_004.png)
+![](project_images/IMG_R_005.png)
+![](project_images/IMG_R_006.png)
+![](project_images/IMG_R_007.png)
+![](project_images/IMG_R_008.png)
+![](project_images/IMG_R_R_001.png)
+![](project_images/IMG_R_R_002.png)
+![](project_images/IMG_R_R_003.png)
+![](project_images/IMG_R_R_004.png)
+![](project_images/IMG_R_R_005.png)
+![](project_images/IMG_R_R_006.png)
+![](project_images/IMG_R_R_007.png)
+![](project_images/IMG_R_R_008.png)
+![](project_images/IMG_R_R_009.png)
+![](project_images/IMG_R_R_010.png)
+![](project_images/IMG_R_R_011.png)
+
 
 
 
