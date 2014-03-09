@@ -1,5 +1,5 @@
 # Exdrummer project
-Music at your fingertips
+Drum set at your fingertips.
 
 ## Authors
 - [Maxim Zaytsev](https://github.com/maxim-zaytsev)
