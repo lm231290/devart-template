@@ -1,33 +1,23 @@
-# Project Title
-Insert the name of your project
+# Exdrummer project
+Music at your fingertips
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+- [Maxim Zaytsev](https://github.com/maxim-zaytsev)
+- [Sergey Sinev](https://github.com/xeodon)
+- [Denis Chernishev](https://github.com/zoirs)
+- [Anna Sakharova](https://github.com/AnnaSakharova)
+- [Ulyana Dudko](https://github.com/ulyanao)
+- [Alexey Mishankin](https://github.com/lm231290)
+- [Vladimir Yuranov]()
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+The main point of our project is to give you a new and natural way of creating a music. This is not only a program side thing, but the integration of hardware and software to create awesome music experience. We built the device that give you sensors that you place at your fingers. When you knock something the sensors send the signal to android device that plays sound sample. This is a simple thing to use but it is complicated inside. Exdrummer gives you opportunity to drum with you fingers in natural way and play like cool drummer. You don`t need any huge drum sets. Only one small device and android phone or tablet for a cute jam!
+We do not forget about visual performance too and created nice visual accompaniment to your music.
+So nothing could be easier: one slight knock blasts thundering flash of light and sound. It is really magic experience!
 
-## Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
-
-[Example Link](http://www.google.com "Example Link")
-
-## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
-```
-function test() {
-  console.log("Printing a test");
-}
-```
-## Links to External Libraries
- NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
-
-[Example Link](http://www.google.com "Example Link")
 
 ## Images & Videos
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
-![Example Image](project_images/cover.jpg?raw=true "Example Image")
 
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
+
