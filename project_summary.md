@@ -16,8 +16,8 @@ We do not forget about visual performance too and created nice visual accompanim
 So nothing could be easier: one slight knock blasts thundering flash of light and sound. It is really magic experience!
 
 
-## Images & Videos
-Here is a video about how it works
+## Images & Videos
+Here is a video about how it works:
 
 [![ScreenShot](https://i.ytimg.com/vi/M94ZPlU1beA/2.jpg?1394352715745)](http://youtu.be/M94ZPlU1beA)
 
