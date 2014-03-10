@@ -40,7 +40,7 @@ And these are photos of developing process
 ![](project_images/IMG_016.png)
 ![](project_images/IMG_017.png)
 ![](project_images/IMG_018.png)
-![](project_images/IMG_019.png)
+![](project_images/IMG_021.png)
 
 
 
