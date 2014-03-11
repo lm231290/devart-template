@@ -12,8 +12,10 @@ So let`s how it looked like in version 1.
 
 This is v.1 processing board
 
-![](project_images/IMG_022.jpg)
-![](project_images/IMG_023.jpg)
+![](/project_images/IMG_022.jpg)
+![](/project_images/IMG_023.jpg)
 
 Not very tasty, is it :) It was custom hand made board with a lot of nasty soldering. 
 But it worked nice. We wrote a lot of c++ code to send data on windows based desktop and play sound. Little bit gigantic clumsy thing.
+
+Next time I`ll tell you about sensors
