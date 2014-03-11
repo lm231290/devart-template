@@ -18,4 +18,4 @@ This is v.1 processing board
 Not very tasty, is it :) It was custom hand made board with a lot of nasty soldering. 
 But it worked nice. We wrote a lot of c++ code to send data on windows based desktop and play sound. Little bit gigantic clumsy thing.
 
-Next time I`ll tell you about sensors
+Next time I`ll tell you about sensors, stay tuned!
